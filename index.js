@@ -25,7 +25,7 @@ const questions = [
     {
         message: 'project license?',
         type: 'list',
-        choices: ['MIT', 'APACHE 2.0', 'GPL 3.0', 'BSD 3', 'None'],
+        choices: ['MIT', 'APACH_2.0', 'GPL_3.0', 'BSD_3', 'None'],
         name: 'license'
     },
     {
@@ -64,7 +64,7 @@ inquirer.prompt(questions)
 <h2> Table of Contents </h2>
 
 <details open="open">
-<summary>Table of Contents</summary>
+<summary>Contents</summary>
 <ol>
 <li><a href="#installation">Installation</a></li>
 <li><a href="#usage">Usage</a></li>
@@ -91,6 +91,6 @@ inquirer.prompt(questions)
     `
 
 
-    fs.writeFile('newReadMe.md', readMeElem, err=> console.log(err))
+    fs.writeFile('newREADME.md', readMeElem, err=> console.log(err))
 })
 .catch(err=> console.log(err))
