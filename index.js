@@ -59,7 +59,7 @@ inquirer.prompt(questions)
  
 <h1> ${answers.title} </h1>
 
-<h2> ${answers.description} </h2>
+<p> ${answers.description} </p>
 
 <h2> Table of Contents </h2>
 
@@ -86,7 +86,9 @@ inquirer.prompt(questions)
 <p>${answers.tests}</p>
 
 <h3 id='questions'>Questions</h3>
-<p>Contact me on Github Username: ${answers.username} or via Email: ${answers.email} </p>
+<p> | Contact me | </p>
+<p> Github: ${answers.username} </p>
+<p> Email: ${answers.email} </p>
 
     `
 
