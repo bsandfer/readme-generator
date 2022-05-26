@@ -1,9 +1,8 @@
-
-<img src='https://img.shields.io/badge/license-None-blue.svg'>
+<img src='https://img.shields.io/badge/license-MIT-blue.svg'>
  
 <h1> ReadMe Generator </h1>
 
-<p> This is a command line application for generating a README.md file. This README.md file was created as an example. </p>
+<p> This is a command line application for generating README.md files. Answer a series of questions and the application will format then generate a newREADME.md file in the project directory </p>
 
 <h2> Table of Contents </h2>
 
@@ -18,20 +17,18 @@
 </details>
 
 <h3 id='installation'>Installation</h3>
-<p>npm i</p>
+<p>To run this application, clone the repo then navigate in a terminal to the root directory of the repo. install packages using the command "npm install"</p>
 
 <h3 id='usage'>Usage</h3>
-<p>node index.js</p>
+<p>start the application with the command "node index.js" and follow the prompts in the console.</p>
 
 <h3 id='contributors'>Contributors</h3>
-<p>n/a</p>
+<p></p>
 
 <h3 id='tests'>Tests</h3>
-<p>n/a</p>
+<p></p>
 
 <h3 id='questions'>Questions</h3>
 <p> | Contact me | </p>
-<p> Github: bsandfer </p>
+<p> Github: bSandfer </p>
 <p> Email: bsandfer@gmail.com </p>
-
-    
