@@ -2,6 +2,8 @@
  
 <h1> ReadMe Generator </h1>
 
+![readmeScreenshot](./READMEmdScreenshot.png)
+
 <p> This is a command line application for generating README.md files. Answer a series of questions and the application will format then generate a newREADME.md file in the project directory </p>
 
 <h2> Table of Contents </h2>
