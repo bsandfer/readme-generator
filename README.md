@@ -4,7 +4,7 @@
 
 ![readmeScreenshot](./READMEmdScreenshot.png)
 
-<p> This is a command line application for generating README.md files. Answer a series of questions and the application will format then generate a newREADME.md file in the project directory </p>
+<p> This is a Node.js application that utilizes the Inquirer package for generating README.md files. Answer a series of questions and the application will format then generate a newREADME.md file in the project directory from the command line interface. </p>
 
 <h2> Table of Contents </h2>
 
